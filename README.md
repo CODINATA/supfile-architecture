@@ -1,2 +1,2 @@
 # supfile-architecture
-This a repo for our end of year project.
+This is a repo for our end of year project.
